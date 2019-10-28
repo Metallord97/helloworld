@@ -4,7 +4,7 @@ jdk:
 
 addons:
  sonarcloud:
-  organization: metallord97
+  organization: "metallord97"
   token:
    secure: travis encrypt 4f74716ea01147ab6f7b121be398beb12872098d
 script: 
