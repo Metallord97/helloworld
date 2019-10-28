@@ -6,7 +6,7 @@ addons:
  sonarcloud:
   organization: "metallord97"
   token:
-   secure: "4f74716ea01147ab6f7b121be398beb12872098d"
+   secure: 4f74716ea01147ab6f7b121be398beb12872098d
 script: 
 - ant build 
 - sonar-scanner
